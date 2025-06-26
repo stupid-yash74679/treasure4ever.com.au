@@ -61,7 +61,7 @@
                             data-responsive="on" data-type="shape"
                             data-frames='[{"delay":1200,"speed":2000,"frame":"0","from":"opacity:0;fb:30px;","to":"opacity:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":600,"frame":"999","to":"auto:auto;fb:0;","ease":"Power3.easeInOut"}]'
                             style="z-index: 999; pointer-events:none;">
-                            <img src="images/home-yoga-meditation-slider-women.png" alt=""
+                            <img src="/assets/custom/home-yoga-meditation-slider-women.webp" alt=""
                                 data-ww="['1100px','1250px','800px','650px']" data-hh="['auto','auto','auto','auto']"
                                 width="1500" height="1000" data-no-retina>
                         </div>
@@ -148,11 +148,6 @@
                             <span class="alt-font font-weight-500 text-uppercase line-height-18px d-block">Keepsake
                                 Prints</span>
                         </div>
-                    </div>
-                    <div class="col-12 col-lg-auto text-center text-lg-end">
-                        <a href="#sessions"
-                            class="section-link btn btn-fancy btn-very-small btn-gradient-tan-geraldine btn-round-edge-small">Book
-                            Your Session</a>
                     </div>
                 </div>
             </div>
