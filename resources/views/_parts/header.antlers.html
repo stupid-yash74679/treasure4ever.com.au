@@ -1,0 +1,80 @@
+<!-- start header -->
+<header class="header-with-topbar">
+    <div class="top-bar bg-light-gray d-none d-md-inline-block padding-35px-lr md-no-padding-lr">
+        <div class="container-fluid nav-header-container">
+            <div class="d-flex flex-wrap align-items-center">
+                <div class="col-12 text-center text-sm-start col-sm-auto me-auto ps-lg-0">
+                    <p class="text-medium m-0"><span class="font-weight-500 text-extra-dark-gray">Treasure4ever Studio:</span> Capturing timeless memories through heartfelt photography.</p>
+                </div>
+                <div class="col-auto d-none d-sm-block text-end px-lg-0 font-size-0">
+                    <div class="top-bar-contact">
+                        <span class="top-bar-contact-list border-none md-no-padding-right">
+                            <i class="feather icon-feather-phone-call icon-extra-small text-extra-dark-gray"></i> 0425 555 002
+                        </span>
+                        <span class="top-bar-contact-list d-none d-lg-inline-block border-none pe-0">
+                            <i class="feather icon-feather-map-pin icon-extra-small text-extra-dark-gray"></i>
+                            Melbourne, Australia
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <nav class="navbar navbar-expand-lg top-space navbar-light bg-white header-light fixed-top navbar-boxed header-reverse-scroll">
+        <div class="container-fluid nav-header-container">
+            <div class="col-6 col-lg-2 me-auto ps-lg-0">
+                <a class="navbar-brand" href="index.html">
+                    <img src="/images/logo-gradient-tan-geraldine.png" data-at2x="/images/logo-gradient-tan-geraldine@2x.png" class="default-logo" alt="Treasure4ever Studio Logo">
+                    <img src="/images/logo-gradient-tan-geraldine.png" data-at2x="/images/logo-gradient-tan-geraldine@2x.png" class="alt-logo" alt="Treasure4ever Studio Logo">
+                    <img src="/images/logo-gradient-tan-geraldine.png" data-at2x="/images/logo-gradient-tan-geraldine@2x.png" class="mobile-logo" alt="Treasure4ever Studio Logo">
+                </a>
+            </div>
+            <div class="col-auto menu-order px-lg-0">
+                <button class="navbar-toggler float-end" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-line"></span>
+                    <span class="navbar-toggler-line"></span>
+                    <span class="navbar-toggler-line"></span>
+                    <span class="navbar-toggler-line"></span>
+                </button>
+                <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+                    <ul class="navbar-nav alt-font">
+                        <li class="nav-item">
+                            <a href="/" class="nav-link">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/about-us" class="nav-link">About</a>
+                        </li>
+                        {{ taxonomy:service_categories }}
+                        <li class="nav-item dropdown simple-dropdown">
+                            <a href="{{ url }}" class="nav-link">{{ title }}</a>
+                            <i class="fa fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
+                            <ul class="dropdown-menu" role="menu">
+                                {{ entries }}
+                                <li><a href="{{ url }}">{{ title }}</a></li>
+                                {{ /entries }}
+                            </ul>
+                        </li>
+                        {{ /taxonomy:service_categories }}
+                        <li class="nav-item">
+                            <a href="/gallery" class="nav-link">Gallery</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/blogs" class="nav-link">Blog</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href=/contact-us " class="nav-link ">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-auto text-end pe-0 font-size-0 ">
+                <div class="header-social-icon d-none d-sm-inline-block ">
+                    <a href="http://www.facebook.com " target="_blank "><i class="fa-brands fa-facebook-f "></i></a>
+                    <a href="https://www.instagram.com/ " target="_blank "><i class="fa-brands fa-instagram "></i></a>
+                    <a href="http://www.twitter.com " target="_blank "><i class="fa-brands fa-twitter "></i></a>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+<!-- end header -->

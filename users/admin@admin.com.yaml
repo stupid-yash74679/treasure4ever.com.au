@@ -1,0 +1,14 @@
+name: Admin
+super: true
+id: 15eb37df-2386-4b58-befb-03d21b3db660
+password_hash: $2y$12$bBC6fA3rIG4Ez6pnZXc31.1RzkJqfkaREJ0a7u/HXPtwxh26FIEqW
+preferences:
+  collections:
+    services:
+      after_save: create_another
+      columns:
+        - title
+        - service_categories
+        - author
+        - slug
+        - status
