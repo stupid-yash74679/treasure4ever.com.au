@@ -1,5 +1,6 @@
 <!-- start page title -->
-<section class="parallax" data-parallax-background-ratio="0.5" style="background-image:url('images/about-us-bg.jpg');">
+<section class="parallax" data-parallax-background-ratio="0.5"
+    style="background-image:url('{{ website_settings:page_header_background_image }}');">
     <div class="opacity-extra-medium bg-extra-dark-gray"></div>
     <div class="container">
         <div class="row align-items-stretch justify-content-center small-screen">
@@ -24,7 +25,7 @@
         <div class="row">
             <div class="col-lg-4 pe-lg-0 d-flex md-margin-30px-bottom">
                 <div class="w-100 md-h-700px sm-h-550px xs-h-450px cover-background"
-                    style="background-image:url('images/about-us-img-07.jpg');"></div>
+                    style="background-image:url('{{ about_us_left_image }}');"></div>
             </div>
             <div class="col-lg-4 col-md-6 ps-lg-0 d-flex sm-margin-30px-bottom">
                 <div
@@ -40,15 +41,17 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
-                <img src="images/about-us-img-01.jpg" alt="" />
+                <img src="{{ about_us_right_image }}" alt="" />
                 <div
                     class="bg-white padding-3-half-rem-lr padding-3-rem-tb lg-padding-2-rem-all md-padding-2-half-rem-all sm-padding-4-rem-all last-paragraph-no-margin">
                     <span class="alt-font text-extra-dark-gray font-weight-500 margin-10px-bottom d-block">About
-                        Treasure4ever Studio</span>
-                    <p>We are more than a studio — we are memory makers. Our expert team blends creativity, warmth, and
-                        craftsmanship to ensure every session is comfortable, personal, and unforgettable.</p>
+                        Aarti Mahida</span>
+                    <p>Aarti Mahida, a loving mother of two, brings care, patience, and genuine warmth into every
+                        session. Her personal journey helps her connect deeply with babies and families, making each
+                        photo truly heartfelt.</p>
                 </div>
             </div>
+
         </div>
     </div>
 </section>
@@ -74,32 +77,6 @@
                 </a>
             </div>
         </div>
-        <div
-            class="row row-cols-1 row-cols-md-4 row-cols-sm-2 client-logo-style-01 align-items-center margin-7-half-rem-top sm-margin-5-rem-top">
-            <div class="col text-center margin-30px-bottom sm-margin-15px-bottom wow animate__fadeIn">
-                <div class="client-box padding-15px-all border border-color-dark-gray">
-                    <a href="#"><img class="client-box-image" src="images/client-logo-35.png" alt="" /></a>
-                </div>
-            </div>
-            <div class="col text-center margin-30px-bottom sm-margin-15px-bottom wow animate__fadeIn"
-                data-wow-delay="0.2s">
-                <div class="client-box padding-15px-all border border-color-dark-gray">
-                    <a href="#"><img class="client-box-image" src="images/client-logo-37.png" alt="" /></a>
-                </div>
-            </div>
-            <div class="col text-center margin-30px-bottom sm-margin-15px-bottom wow animate__fadeIn"
-                data-wow-delay="0.4s">
-                <div class="client-box padding-15px-all border border-color-dark-gray">
-                    <a href="#"><img class="client-box-image" src="images/client-logo-33.png" alt="" /></a>
-                </div>
-            </div>
-            <div class="col text-center margin-30px-bottom sm-margin-15px-bottom wow animate__fadeIn"
-                data-wow-delay="0.6s">
-                <div class="client-box padding-15px-all border border-color-dark-gray">
-                    <a href="#"><img class="client-box-image" src="images/client-logo-38.png" alt="" /></a>
-                </div>
-            </div>
-        </div>
     </div>
 </section>
 <!-- end section -->
@@ -111,8 +88,9 @@
             <div class="col-lg-6 col-sm-8 text-center margin-5-rem-bottom md-margin-3-rem-bottom">
                 <span class="text-extra-medium margin-15px-bottom alt-font d-block w-100">Discover why families trust
                     us</span>
-                <h5 class="alt-font text-extra-dark-gray font-weight-500 margin-2-rem-bottom sm-w-100">We create
-                    keepsakes, portraits, and stories that last forever.</h5>
+                <h5 class="alt-font text-extra-dark-gray font-weight-500 margin-2-rem-bottom sm-w-100">
+                    We create keepsakes, portraits, and stories that last forever.
+                </h5>
             </div>
         </div>
         <div class="row row-cols-1 row-cols-lg-2 justify-content-center">
@@ -120,11 +98,12 @@
                 <div
                     class="feature-box h-100 feature-box-left-icon border-radius-5px bg-white box-shadow-small feature-box-dark-hover overflow-hidden padding-4-rem-all">
                     <div class="feature-box-icon">
-                        <i class="line-icon-Navigation-LeftWindow icon-medium text-fast-blue"></i>
+                        <i class="fas fa-camera-retro icon-medium text-fast-blue"></i> <!-- Tailored Experience -->
                     </div>
                     <div class="feature-box-content last-paragraph-no-margin">
-                        <span class="alt-font font-weight-500 margin-10px-bottom d-block text-extra-dark-gray">Tailored
-                            Experience</span>
+                        <span class="alt-font font-weight-500 margin-10px-bottom d-block text-extra-dark-gray">
+                            Tailored Experience
+                        </span>
                         <p>We personalise every session — whether maternity, newborn, or family — so your story is
                             authentically captured.</p>
                     </div>
@@ -135,11 +114,12 @@
                 <div
                     class="feature-box h-100 feature-box-left-icon border-radius-5px bg-white box-shadow-small feature-box-dark-hover overflow-hidden padding-4-rem-all">
                     <div class="feature-box-icon">
-                        <i class="line-icon-Cursor-Click2 icon-medium text-fast-blue"></i>
+                        <i class="fas fa-paint-brush icon-medium text-fast-blue"></i> <!-- Endless Creativity -->
                     </div>
                     <div class="feature-box-content last-paragraph-no-margin">
-                        <span class="alt-font font-weight-500 margin-10px-bottom d-block text-extra-dark-gray">Endless
-                            Creativity</span>
+                        <span class="alt-font font-weight-500 margin-10px-bottom d-block text-extra-dark-gray">
+                            Endless Creativity
+                        </span>
                         <p>From timeless portraits to custom keepsakes, we help you express your love and create
                             unforgettable visuals.</p>
                     </div>
@@ -150,11 +130,12 @@
                 <div
                     class="feature-box h-100 feature-box-left-icon border-radius-5px bg-white box-shadow-small feature-box-dark-hover overflow-hidden padding-4-rem-all">
                     <div class="feature-box-icon">
-                        <i class="line-icon-Like-2 icon-medium text-fast-blue"></i>
+                        <i class="fas fa-baby icon-medium text-fast-blue"></i> <!-- Family-Focused -->
                     </div>
                     <div class="feature-box-content last-paragraph-no-margin">
-                        <span
-                            class="alt-font font-weight-500 margin-10px-bottom d-block text-extra-dark-gray">Family-Focused</span>
+                        <span class="alt-font font-weight-500 margin-10px-bottom d-block text-extra-dark-gray">
+                            Family-Focused
+                        </span>
                         <p>We specialise in making parents and little ones feel at ease, resulting in genuine,
                             emotion-filled photographs.</p>
                     </div>
@@ -165,11 +146,12 @@
                 <div
                     class="feature-box h-100 feature-box-left-icon border-radius-5px bg-white box-shadow-small feature-box-dark-hover overflow-hidden padding-4-rem-all">
                     <div class="feature-box-icon">
-                        <i class="line-icon-One-FingerTouch icon-medium text-fast-blue"></i>
+                        <i class="fas fa-images icon-medium text-fast-blue"></i> <!-- Ongoing Support -->
                     </div>
                     <div class="feature-box-content last-paragraph-no-margin">
-                        <span class="alt-font font-weight-500 margin-10px-bottom d-block text-extra-dark-gray">Ongoing
-                            Support</span>
+                        <span class="alt-font font-weight-500 margin-10px-bottom d-block text-extra-dark-gray">
+                            Ongoing Support
+                        </span>
                         <p>We are here for you beyond your session — offering product guidance, printing, and keepsake
                             display solutions.</p>
                     </div>
@@ -180,6 +162,8 @@
     </div>
 </section>
 <!-- end section -->
+
+
 <!-- start section -->
 <section class="wow animate__fadeIn">
     <div class="container">
@@ -189,15 +173,11 @@
                 <div class="swiper white-move border-all border-width-12px border-color-white box-shadow-large border-radius-8px"
                     data-slider-options='{ "slidesPerView": 1, "loop": true, "navigation": { "nextEl": ".swiper-button-next-nav", "prevEl": ".swiper-button-previous-nav" }, "keyboard": { "enabled": true, "onlyInViewport": true }, "effect": "slide" }'>
                     <div class="swiper-wrapper">
+                        {{ teamwork_photos }}
                         <!-- start slider item -->
-                        <div class="swiper-slide"><img src="images/about-us-img-08.jpg" alt=""></div>
+                        <div class="swiper-slide"><img src="{{ url }}" alt=""></div>
                         <!-- end slider item -->
-                        <!-- start slider item -->
-                        <div class="swiper-slide"><img src="images/about-us-img-09.jpg" alt=""></div>
-                        <!-- end slider item -->
-                        <!-- start slider item -->
-                        <div class="swiper-slide"><img src="images/about-us-img-10.jpg" alt=""></div>
-                        <!-- end slider item -->
+                        {{ /teamwork_photos }}
                     </div>
                     <!-- start slider navigation -->
                     <div class="swiper-button-next-nav swiper-button-next slider-navigation-style-01 light"><i
@@ -241,16 +221,16 @@
                 <div
                     class="feature-box h-100 feature-box-left-icon-middle padding-4-rem-all bg-white box-shadow-small box-shadow-large-hover border-radius-8px overflow-hidden last-paragraph-no-margin lg-padding-2-half-rem-all md-padding-4-rem-all">
                     <div class="feature-box-icon margin-20px-right">
-                        <i class="line-icon-Gear-2 icon-medium text-fast-blue"></i>
+                        <i class="fas fa-camera icon-medium text-fast-blue"></i>
                     </div>
                     <div class="feature-box-content line-height-22px">
-                        <div class="text-extra-dark-gray alt-font font-weight-500 line-height-20px">Custom Website
-                            Builds</div>
-                        <span class="text-small alt-font">Fast setup & seamless delivery</span>
+                        <div class="text-extra-dark-gray alt-font font-weight-500 line-height-20px">Professional
+                            Photography</div>
+                        <span class="text-small alt-font">Capturing moments that matter</span>
                     </div>
                     <div class="bg-medium-light-gray margin-25px-top w-100 h-1px"></div>
-                    <p class="margin-25px-top">Our experienced team develops unique, fully responsive websites designed
-                        to impress and perform.</p>
+                    <p class="margin-25px-top">From maternity to newborn and family portraits, we freeze your most
+                        cherished memories in stunning detail.</p>
                     <h3
                         class="alt-font opacity-2 font-weight-500 letter-spacing-minus-2px position-absolute bottom-minus-20px sm-bottom-minus-15px right-50px m-0">
                         01</h3>
@@ -263,16 +243,16 @@
                 <div
                     class="feature-box h-100 feature-box-left-icon-middle padding-4-rem-all bg-white box-shadow-small box-shadow-large-hover border-radius-8px overflow-hidden last-paragraph-no-margin lg-padding-2-half-rem-all md-padding-4-rem-all">
                     <div class="feature-box-icon margin-20px-right">
-                        <i class="line-icon-Transform icon-medium text-fast-blue"></i>
+                        <i class="fas fa-photo-video icon-medium text-fast-blue"></i>
                     </div>
                     <div class="feature-box-content line-height-22px">
-                        <div class="text-extra-dark-gray alt-font font-weight-500 line-height-20px">Endless
-                            Customization</div>
-                        <span class="text-small alt-font">Flexible layouts, tailored designs</span>
+                        <div class="text-extra-dark-gray alt-font font-weight-500 line-height-20px">Creative
+                            Storytelling</div>
+                        <span class="text-small alt-font">Emotive and artistic direction</span>
                     </div>
                     <div class="bg-medium-light-gray margin-25px-top w-100 h-1px"></div>
-                    <p class="margin-25px-top">We offer limitless style options and functionality to ensure your brand
-                        stands out beautifully online.</p>
+                    <p class="margin-25px-top">Every photo session is crafted with creativity — blending natural
+                        emotions and curated scenes for timeless results.</p>
                     <h3
                         class="alt-font opacity-2 font-weight-500 letter-spacing-minus-2px position-absolute bottom-minus-20px sm-bottom-minus-15px right-50px m-0">
                         02</h3>
@@ -285,16 +265,16 @@
                 <div
                     class="feature-box h-100 feature-box-left-icon-middle padding-4-rem-all bg-white box-shadow-small box-shadow-large-hover border-radius-8px overflow-hidden last-paragraph-no-margin lg-padding-2-half-rem-all md-padding-4-rem-all">
                     <div class="feature-box-icon margin-20px-right">
-                        <i class="line-icon-Heart icon-medium text-fast-blue"></i>
+                        <i class="fas fa-gift icon-medium text-fast-blue"></i>
                     </div>
                     <div class="feature-box-content line-height-22px">
-                        <div class="text-extra-dark-gray alt-font font-weight-500 line-height-20px">Performance Driven
+                        <div class="text-extra-dark-gray alt-font font-weight-500 line-height-20px">Keepsakes & Prints
                         </div>
-                        <span class="text-small alt-font">Clean, optimized codebase</span>
+                        <span class="text-small alt-font">Heirlooms that last forever</span>
                     </div>
                     <div class="bg-medium-light-gray margin-25px-top w-100 h-1px"></div>
-                    <p class="margin-25px-top">All of our websites are coded for speed, SEO, and flawless functionality
-                        across devices.</p>
+                    <p class="margin-25px-top">We offer a curated range of prints, albums, and framed art to help you
+                        celebrate your memories beautifully.</p>
                     <h3
                         class="alt-font opacity-2 font-weight-500 letter-spacing-minus-2px position-absolute bottom-minus-20px sm-bottom-minus-15px right-50px m-0">
                         03</h3>
