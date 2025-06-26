@@ -1,34 +1,19 @@
 <!-- start page title -->
-<section class="no-padding one-third-screen position-relative wow animate__fadeIn">
-    <div class="opacity-medium bg-extra-dark-gray z-index-0"></div>
+<section class="parallax" data-parallax-background-ratio="0.5"
+    style="background-image:url('{{ website_settings:page_header_background_image }}');">
+    <div class="opacity-extra-medium bg-extra-dark-gray"></div>
     <div class="container">
-        <div class="row align-items-center justify-content-center one-third-screen">
-            <div class="col-xl-6 col-lg-7 col-md-10 position-relative page-title-large text-center">
-                <span
-                    class="d-block text-white opacity-6 margin-5px-bottom alt-font text-extra-medium font-weight-300">we
-                    provide innovative solutions</span>
-                <h1 class="alt-font text-white letter-spacing-minus-1px font-weight-500 no-margin-bottom">{{ title }}</h1>
+        <div class="row align-items-stretch justify-content-center small-screen">
+            <div
+                class="col-12 position-relative page-title-extra-small text-center d-flex align-items-center justify-content-center flex-column">
+                <h1 class="alt-font text-white opacity-6 margin-20px-bottom">{{ title }}</h1>
+                <h2
+                    class="text-white alt-font font-weight-500 w-55 md-w-65 sm-w-80 center-col xs-w-100 letter-spacing-minus-1px line-height-50 sm-line-height-45 xs-line-height-30 no-margin-bottom">
+                    Capturing moments that last a lifetime</h2>
             </div>
-            <div class="down-section text-center"><a href="#down-section" class="section-link"><i
-                        class="feather icon-feather-arrow-down icon-extra-small text-white bg-fast-blue padding-15px-all xs-padding-10px-all border-radius-100"></i></a>
+            <div class="down-section text-center"><a href="#about" class="section-link"><i
+                        class="ti-arrow-down icon-extra-small text-white bg-transparent-black padding-15px-all xs-padding-10px-all border-radius-100"></i></a>
             </div>
-        </div>
-    </div>
-    <div class="swiper z-index-minus-2 position-absolute top-0px"
-        data-slider-options='{ "loop": true, "slidesPerView": 1, "effect": "fade", "keyboard": { "enabled": true, "onlyInViewport": true }, "autoplay": { "delay": 5000, "disableOnInteraction": false }, "fadeEffect": { "crossFade": true } }'>
-        <div class="swiper-wrapper">
-            <!-- start slider item -->
-            <div class="swiper-slide cover-background one-third-screen"
-                style="background-image:url('/images/page-title-bg-04.jpg');"></div>
-            <!-- end slider item -->
-            <!-- start slider item -->
-            <div class="swiper-slide cover-background one-third-screen"
-                style="background-image:url('/images/page-title-bg-05.jpg');"></div>
-            <!-- end slider item -->
-            <!-- start slider item -->
-            <div class="swiper-slide cover-background one-third-screen"
-                style="background-image:url('/images/page-title-bg-06.jpg');"></div>
-            <!-- end slider item -->
         </div>
     </div>
 </section>
@@ -51,9 +36,8 @@
                             class="hover-content align-items-center d-flex flex-column h-100 text-center last-paragraph-no-margin">
                             <h6 class="alt-font font-weight-500 text-white w-50 mb-auto" style="margin-top: 20%;">{{ title }}</h6>
                             <div class="hover-show-content">
-                                <a href="#"
-                                    class="btn btn-very-small btn-fancy btn-yellow-ochre margin-30px-top lg-margin-20px-top">Book
-                                    Now</a>
+                                <a href="{{ url }}"
+                                    class="btn btn-very-small btn-fancy btn-yellow-ochre margin-30px-top lg-margin-20px-top">Explore</a>
                             </div>
                         </div>
                         <div class="hover-action-btn text-center">
