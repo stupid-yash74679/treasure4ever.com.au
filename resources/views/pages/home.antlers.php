@@ -168,7 +168,6 @@
     </div>
 </section>
 <!-- end section -->
-
 <!-- start section -->
 <section class="pt-lg-0 pb-0 overflow-visible">
     <div class="container">
@@ -180,7 +179,7 @@
                     <div class="flipper to-left">
                         <div class="thumb-wrap">
                             <div class="front border-radius-4px overflow-hidden"
-                                style="background-image:url('images/home-yoga-meditation-meditation-bg.jpg')">
+                                style="background-image:url('{{ top_3_services_maternity_photo }}')">
                                 <div class="opacity-extra-medium-2 bg-transparent-gradiant-white-black"></div>
                                 <div class="content-wrap padding-15px-lr">
                                     <span
@@ -219,7 +218,7 @@
                     <div class="flipper to-left">
                         <div class="thumb-wrap">
                             <div class="front border-radius-4px overflow-hidden"
-                                style="background-image:url('images/home-yoga-meditation-sound-therapy-bg.jpg')">
+                                style="background-image:url('{{ top_3_services_new_born_photo }}')">
                                 <div class="opacity-extra-medium-2 bg-transparent-gradiant-white-black"></div>
                                 <div class="content-wrap padding-15px-lr">
                                     <span
@@ -257,7 +256,7 @@
                     <div class="flipper to-left">
                         <div class="thumb-wrap">
                             <div class="front border-radius-4px overflow-hidden"
-                                style="background-image:url('images/home-yoga-meditation-mindfullness-bg.jpg')">
+                                style="background-image:url('{{ top_3_services_photo_keepsafe }}')">
                                 <div class="opacity-extra-medium-2 bg-transparent-gradiant-white-black"></div>
                                 <div class="content-wrap padding-15px-lr">
                                     <span
@@ -292,84 +291,8 @@
     </div>
 </section>
 <!-- end section -->
-
 <!-- start section -->
-<section class="big-section wow animate__fadeIn">
-    <div class="container">
-        <div class="row row-cols-1 row-cols-lg-4 row-cols-sm-2">
-            <!-- start feature box item -->
-            <div class="col md-margin-40px-bottom wow animate__fadeIn" data-wow-delay="0.2s">
-                <div class="feature-box text-start">
-                    <div class="feature-box-icon">
-                        <i
-                            class="line-icon-Soup icon-large text-salmon-rose margin-35px-bottom sm-margin-25px-bottom xs-margin-15px-bottom"></i>
-                    </div>
-                    <div class="feature-box-content last-paragraph-no-margin">
-                        <span class="alt-font font-weight-500 margin-10px-bottom d-block text-dark-purple">Custom
-                            Keepsakes</span>
-                        <p class="w-85 lg-w-100">From fine art prints to handmade albums, create keepsakes that tell
-                            your story beautifully.</p>
-                    </div>
-                </div>
-            </div>
-            <!-- end feature box item -->
-
-            <!-- start feature box item -->
-            <div class="col md-margin-40px-bottom wow animate__fadeIn" data-wow-delay="0.4s">
-                <div class="feature-box text-start">
-                    <div class="feature-box-icon">
-                        <i
-                            class="line-icon-Idea-5 icon-large text-salmon-rose margin-35px-bottom sm-margin-25px-bottom xs-margin-15px-bottom"></i>
-                    </div>
-                    <div class="feature-box-content last-paragraph-no-margin">
-                        <span class="alt-font font-weight-500 margin-10px-bottom d-block text-dark-purple">Creative
-                            Sessions</span>
-                        <p class="w-85 lg-w-100">Let your personality shine with unique, artistic photoshoots crafted
-                            just for you.</p>
-                    </div>
-                </div>
-            </div>
-            <!-- end feature box item -->
-
-            <!-- start feature box item -->
-            <div class="col xs-margin-40px-bottom wow animate__fadeIn" data-wow-delay="0.6s">
-                <div class="feature-box text-start">
-                    <div class="feature-box-icon">
-                        <i
-                            class="line-icon-Bell-2 icon-large text-salmon-rose margin-35px-bottom sm-margin-25px-bottom xs-margin-15px-bottom"></i>
-                    </div>
-                    <div class="feature-box-content last-paragraph-no-margin">
-                        <span class="alt-font font-weight-500 margin-10px-bottom d-block text-dark-purple">Newborn
-                            Details</span>
-                        <p class="w-85 lg-w-100">We capture the tiniest features, delicate moments, and pure expressions
-                            of your little one.</p>
-                    </div>
-                </div>
-            </div>
-            <!-- end feature box item -->
-
-            <!-- start feature box item -->
-            <div class="col wow animate__fadeIn" data-wow-delay="0.8s">
-                <div class="feature-box text-start">
-                    <div class="feature-box-icon">
-                        <i
-                            class="line-icon-Letter-Sent icon-large text-salmon-rose margin-35px-bottom sm-margin-25px-bottom xs-margin-15px-bottom"></i>
-                    </div>
-                    <div class="feature-box-content last-paragraph-no-margin">
-                        <span class="alt-font font-weight-500 margin-10px-bottom d-block text-dark-purple">Hands & Feet
-                            Castings</span>
-                        <p class="w-85 lg-w-100">Our lifecasting preserves tiny hands and feet with remarkable detail —
-                            a keepsake for generations.</p>
-                    </div>
-                </div>
-            </div>
-            <!-- end feature box item -->
-        </div>
-    </div>
-</section>
-<!-- end section -->
-<!-- start section -->
-<section class="pt-0 big-section wow animate__fadeIn">
+<section class="pt-50 big-section wow animate__fadeIn">
     <div class="container">
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-5 md-margin-5-rem-bottom xs-margin-5-rem-top wow animate__fadeIn">
@@ -439,7 +362,7 @@
             </div>
             <div class="col-lg-6 offset-lg-1 home-yoga-meditation wow animate__fadeIn" data-wow-delay="0.4s">
                 <div class="outside-box-right position-relative">
-                    <img src="images/home-yoga-meditation-benefits-of-yoga-img.jpg"
+                    <img src="{{ why_choose_us_image }}"
                         class="overflow-hidden border-radius-4px" alt="" />
                     <a href="https://www.youtube.com/watch?v=g0f_BRYJLJE"
                         class="popup-youtube absolute-middle-center video-icon-box video-icon-extra-large left-0px wow animate__fadeIn"
@@ -478,7 +401,7 @@
             class="row row-cols-1 row-cols-lg-3 row-cols-sm-2 justify-content-center margin-3-rem-bottom md-no-margin-bottom">
             <!-- start services item -->
             <div class="col md-margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn" data-wow-delay="0.2s">
-                <a href="#"><img src="images/home-yoga-meditation-popular-classes-img01.jpg" alt="" /></a>
+                <a href="#"><img src="{{ popular_sessions_maternity_shoot_session_photo }}" alt="" /></a>
                 <div class="position-relative bg-white padding-3-half-rem-all box-shadow-small">
                     <div
                         class="bg-dark-purple text-small alt-font text-white text-uppercase position-absolute font-weight-500 top-minus-15px right-0px padding-5px-tb padding-20px-lr">
@@ -497,7 +420,7 @@
 
             <!-- start services item -->
             <div class="col md-margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn" data-wow-delay="0.4s">
-                <a href="#"><img src="images/home-yoga-meditation-popular-classes-img02.jpg" alt="" /></a>
+                <a href="#"><img src="{{ popular_sessions_new_born_photo_session_photo }}" alt="" /></a>
                 <div class="position-relative bg-white padding-3-half-rem-all box-shadow-small">
                     <div
                         class="bg-dark-purple text-small alt-font text-white text-uppercase position-absolute font-weight-500 top-minus-15px right-0px padding-5px-tb padding-20px-lr">
@@ -516,7 +439,7 @@
 
             <!-- start services item -->
             <div class="col wow animate__fadeIn" data-wow-delay="0.6s">
-                <a href="#"><img src="images/home-yoga-meditation-popular-classes-img03.jpg" alt="" /></a>
+                <a href="#"><img src="{{ popular_sessions_hands_and_feet_casting_session_photo }}" alt="" /></a>
                 <div class="position-relative bg-white padding-3-half-rem-all box-shadow-small">
                     <div
                         class="bg-dark-purple text-small alt-font text-white text-uppercase position-absolute font-weight-500 top-minus-15px right-0px padding-5px-tb padding-20px-lr">

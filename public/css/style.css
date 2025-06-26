@@ -12877,7 +12877,7 @@ header.sticky .navbar.header-dark .navbar-toggler-line {
 header .navbar .navbar-brand img,
 header.side-menu .logo img,
 header .sidebar-nav-menu .navbar-brand img {
-    max-height: 36px;
+    max-height: 100%;
 }
 
 header .navbar .navbar-brand .default-logo,
@@ -12885,7 +12885,8 @@ header.sticky .navbar-brand .alt-logo,
 header .sidebar-nav-menu .navbar-brand .default-logo {
     visibility: visible;
     opacity: 1;
-    width: auto;
+    width: 150px;
+    margin: 20px;
     transition-duration: 0.5s;
     -webkit-transition-duration: 0.5s;
     -moz-transition-duration: 0.5s;
@@ -22460,7 +22461,7 @@ aside .instafeed-grid.gutter-double-extra-large {
 ====================================== */
 
 footer .footer-logo img {
-    max-height: 36px;
+    max-height: 100%;
 }
 
 footer ul {
