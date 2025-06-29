@@ -12,3 +12,6 @@ preferences:
         - author
         - slug
         - status
+  assets:
+    assets:
+      per_page: 10
