@@ -14,7 +14,7 @@
                         data-param1="01" data-description="">
                         <!-- MAIN IMAGE -->
                         <img src="images/home-yoga-meditation-slider-bg.jpg" data-bgcolor='#ffffff'
-                            style='background:#ffffff; background-size: cover;' alt="" data-bgposition="center center"
+                            style='background:#ffffff; background-size: cover;' alt="Newborn photography background in Narre Warren studio" data-bgposition="center center"
                             data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg"
                             data-no-retina>
 
@@ -48,7 +48,7 @@
                             data-responsive="off" data-type="shape"
                             data-frames='[{"delay":2000,"speed":2000,"frame":"0","from":"opacity:0;fb:30px;y:150px","to":"opacity:1;fb:0;y:0","ease":"Power3.easeInOut"},{"delay":"wait","speed":600,"frame":"999","to":"auto:auto;fb:0;","ease":"Power3.easeInOut"}]'
                             style="z-index: 999; pointer-events:none;">
-                            <img src="images/home-yoga-meditation-slider-leaves.png" alt=""
+                            <img src="images/home-yoga-meditation-slider-leaves.png" alt="Decorative leaves for photography slider"
                                 data-ww="['1650px','950','850','500']" data-hh="['auto','auto','auto','auto']"
                                 width="1500" height="1000" data-no-retina style="z-index: -20;">
                         </div>
@@ -61,7 +61,7 @@
                             data-responsive="on" data-type="shape"
                             data-frames='[{"delay":1200,"speed":2000,"frame":"0","from":"opacity:0;fb:30px;","to":"opacity:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":600,"frame":"999","to":"auto:auto;fb:0;","ease":"Power3.easeInOut"}]'
                             style="z-index: 999; pointer-events:none;">
-                            <img src="/assets/custom/home-yoga-meditation-slider-women.webp" alt=""
+                            <img src="/assets/custom/home-yoga-meditation-slider-women.webp" alt="Maternity photoshoot in Narre Warren studio"
                                 data-ww="['1100px','1250px','800px','650px']" data-hh="['auto','auto','auto','auto']"
                                 width="1500" height="1000" data-no-retina>
                         </div>
@@ -74,8 +74,8 @@
                             data-lineheight="['35','37','35','35']" data-letterspacing="['-0.4','-0.4','-0.4','-0.4']"
                             data-type="text" data-responsive_offset="on" data-responsive="on"
                             data-frames='[{"delay":2000,"speed":1000,"frame":"0","from":"x:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:[-100%];y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                            data-textAlign="['left','left','center','center']" style=" font-weight: 300;">Capture
-                            Precious Moments</div>
+                            data-textAlign="['left','left','center','center']" style=" font-weight: 300;">Preserve
+                            Life’s Precious Moments</div>
 
                         <!-- Highlighted text layer -->
                         <div class="tp-caption alt-font text-white tp-resizeme font-weight-700 rs-parallaxlevel-1 yoga-main-text"
@@ -87,7 +87,7 @@
                             data-lineheight="['130','130','30','90']" data-letterspacing="['-8','-8','-8','-4']"
                             data-frames='[{"from":"o:1","speed":2500,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
                             data-textAlign="['center','center','center','center']"
-                            style="z-index: 7; white-space: nowrap; text-shadow: 0 0 30px rgba(0,0,0,0.15)">Experience
+                            style="z-index: 7; white-space: nowrap; text-shadow: 0 0 30px rgba(0,0,0,0.15)">Memories
                         </div>
 
                         <!-- Top separator line layer -->
@@ -137,16 +137,14 @@
                         <div
                             class="padding-30px-lr d-block d-sm-inline-block align-middle border-right border-color-medium-gray lg-padding-15px-lr xs-no-border-right xs-margin-10px-bottom">
                             <span class="alt-font font-weight-500 text-uppercase line-height-18px d-block">Maternity
-                                Portraits</span>
+                                Photography</span>
                         </div>
                         <div
                             class="padding-30px-lr d-block d-sm-inline-block align-middle border-right border-color-medium-gray lg-padding-15px-lr xs-no-border-right xs-margin-10px-bottom">
-                            <span class="alt-font font-weight-500 text-uppercase line-height-18px d-block">Newborn &
-                                Family</span>
+                            <span class="alt-font font-weight-500 text-uppercase line-height-18px d-block">Newborn & Family Portraits</span>
                         </div>
                         <div class="padding-30px-lr d-block d-sm-inline-block align-middle lg-padding-15px-lr">
-                            <span class="alt-font font-weight-500 text-uppercase line-height-18px d-block">Keepsake
-                                Prints</span>
+                            <span class="alt-font font-weight-500 text-uppercase line-height-18px d-block">Hand & Feet Castings</span>
                         </div>
                     </div>
                 </div>
@@ -156,13 +154,11 @@
             <div class="col-md-6 wow animate__fadeIn" data-wow-delay="0.1s">
                 <h5
                     class="alt-font font-weight-500 line-height-46px letter-spacing-minus-1px w-95 text-dark-purple m-md-0 lg-w-100 sm-line-height-32px">
-                    Every photo tells a story — let us capture yours forever.</h5>
+                    Cherish every milestone with newborn photography in Narre Warren</h5>
             </div>
             <div class="col-lg-5 col-md-6 offset-lg-1 wow animate__fadeIn" data-wow-delay="0.3s">
-                <p class="line-height-32px w-95">From maternity glow to newborn smiles, Treasure4ever Studio crafts
-                    heartfelt memories that last a lifetime.</p>
-                <a href="/about-us" class="btn btn-link thin btn-extra-large text-dark-purple font-weight-600">Discover
-                    About Us</a>
+                <p class="line-height-32px w-95">From the glow of maternity to the tiny toes of your newborn, Treasure4ever Studio in Narre Warren captures heartfelt moments that become lifelong keepsakes.</p>
+                <a href="/about-us" class="btn btn-link thin btn-extra-large text-dark-purple font-weight-600">Learn More About Our Studio</a>
             </div>
         </div>
     </div>
@@ -184,10 +180,10 @@
                                 <div class="content-wrap padding-15px-lr">
                                     <span
                                         class="text-white text-large letter-spacing-1px margin-5px-bottom text-uppercase alt-font d-inline-block font-weight-500">Maternity
-                                        Glow</span>
+                                        Portraits</span>
                                     <span
-                                        class="text-white opacity-6 text-medium text-uppercase letter-spacing-1-half alt-font d-block">Cherish
-                                        the Journey</span>
+                                        class="text-white opacity-6 text-medium text-uppercase letter-spacing-1-half alt-font d-block">Embrace
+                                        Your Glow</span>
                                 </div>
                             </div>
                             <div class="back border-radius-4px overflow-hidden">
@@ -198,11 +194,10 @@
                                         class="line-icon-Flick icon-large text-white margin-35px-bottom xs-margin-25px-bottom"></i>
                                     <span
                                         class="text-white text-extra-medium letter-spacing-1px font-weight-500 text-uppercase alt-font d-block margin-10px-bottom">Maternity
-                                        Glow</span>
-                                    <p class="text-white opacity-7">Celebrate this special chapter with timeless
-                                        maternity portraits designed to capture your radiance.</p>
+                                        Portraits</span>
+                                    <p class="text-white opacity-7">Celebrate your journey to motherhood with elegant maternity photoshoots in our Narre Warren studio, designed to capture your timeless radiance.</p>
                                     <a href="/photography-services/maternity-photography"
-                                        class="btn btn-link thin btn-extra-large text-extra-dark-gray">Discover More</a>
+                                        class="btn btn-link thin btn-extra-large text-extra-dark-gray">Book Your Maternity Session</a>
                                 </div>
                             </div>
                         </div>
@@ -223,10 +218,10 @@
                                 <div class="content-wrap padding-15px-lr">
                                     <span
                                         class="text-white text-large letter-spacing-1px margin-5px-bottom text-uppercase alt-font d-inline-block font-weight-500">Newborn
-                                        Smiles</span>
+                                        Photography</span>
                                     <span
-                                        class="text-white opacity-6 text-medium text-uppercase letter-spacing-1-half alt-font d-block">Purest
-                                        Memories</span>
+                                        class="text-white opacity-6 text-medium text-uppercase letter-spacing-1-half alt-font d-block">Tiny
+                                        Moments Forever</span>
                                 </div>
                             </div>
                             <div class="back border-radius-4px overflow-hidden">
@@ -237,11 +232,10 @@
                                         class="line-icon-Bell-2 icon-large text-white margin-35px-bottom xs-margin-25px-bottom"></i>
                                     <span
                                         class="text-white text-extra-medium letter-spacing-1px font-weight-500 text-uppercase alt-font d-block margin-10px-bottom">Newborn
-                                        Smiles</span>
-                                    <p class="text-white opacity-7">Capture every tiny detail of your newborn with our
-                                        heartfelt photography sessions.</p>
+                                        Photography</span>
+                                    <p class="text-white opacity-7">Our gentle newborn photography in Narre Warren captures every delicate detail of your baby’s first days, creating cherished memories.</p>
                                     <a href="/photography-services/newborn-photography"
-                                        class="btn btn-link thin btn-extra-large text-extra-dark-gray">Discover More</a>
+                                        class="btn btn-link thin btn-extra-large text-extra-dark-gray">Book Your Newborn Session</a>
                                 </div>
                             </div>
                         </div>
@@ -260,11 +254,10 @@
                                 <div class="opacity-extra-medium-2 bg-transparent-gradiant-white-black"></div>
                                 <div class="content-wrap padding-15px-lr">
                                     <span
-                                        class="text-white text-large letter-spacing-1px margin-5px-bottom text-uppercase alt-font d-inline-block font-weight-500">Family
-                                        Keepsakes</span>
+                                        class="text-white text-large letter-spacing-1px margin-5px-bottom text-uppercase alt-font d-inline-block font-weight-500">Hand & Feet Castings</span>
                                     <span
-                                        class="text-white opacity-6 text-medium text-uppercase letter-spacing-1-half alt-font d-block">Memories
-                                        Forever</span>
+                                        class="text-white opacity-6 text-medium text-uppercase letter-spacing-1-half alt-font d-block">Lasting
+                                        Keepsakes</span>
                                 </div>
                             </div>
                             <div class="back border-radius-4px overflow-hidden">
@@ -274,12 +267,10 @@
                                     <i
                                         class="line-icon-Sun icon-large text-white margin-35px-bottom xs-margin-25px-bottom"></i>
                                     <span
-                                        class="text-white text-extra-medium letter-spacing-1px font-weight-500 text-uppercase alt-font d-block margin-10px-bottom">Family
-                                        Keepsakes</span>
-                                    <p class="text-white opacity-7">Create lasting keepsakes with artistic family
-                                        portraits, wall art, and beautiful prints.</p>
-                                    <a href="/photography-services/portrait-sessions"
-                                        class="btn btn-link thin btn-extra-large text-extra-dark-gray">Discover More</a>
+                                        class="text-white text-extra-medium letter-spacing-1px font-weight-500 text-uppercase alt-font d-block margin-10px-bottom">Hand & Feet Castings</span>
+                                    <p class="text-white opacity-7">Preserve your baby’s tiny hands and feet with our 3D life castings in Melbourne, crafted into beautiful framed keepsakes.</p>
+                                    <a href="/photography-services/newborn-hand-foot-castings"
+                                        class="btn btn-link thin btn-extra-large text-extra-dark-gray">Book Your Casting Session</a>
                                 </div>
                             </div>
                         </div>
@@ -298,10 +289,10 @@
             <div class="col-lg-5 md-margin-5-rem-bottom xs-margin-5-rem-top wow animate__fadeIn">
                 <span
                     class="alt-font font-weight-500 text-salmon-rose text-uppercase d-block margin-20px-bottom md-margin-10px-bottom">Why
-                    Choose Treasure4ever</span>
+                    Treasure4ever Studio</span>
                 <h5
                     class="alt-font font-weight-500 text-dark-purple line-height-46px margin-4-rem-bottom w-85 letter-spacing-minus-1px lg-w-100 md-margin-10px-bottom xs-line-height-30px">
-                    Preserving your family's most precious moments forever</h5>
+                    Your family’s memories, captured with love in Narre Warren</h5>
                 <div class="panel-group accordion-event accordion-style-02 w-85 lg-w-100" id="accordion1"
                     data-active-icon="icon-feather-minus" data-inactive-icon="icon-feather-plus">
                     <!-- start accordion item -->
@@ -311,14 +302,13 @@
                                 href="#collapseOne">
                                 <div class="panel-title">
                                     <span class="alt-font text-dark-purple d-inline-block font-weight-500">Timeless
-                                        Photography Keepsakes</span>
+                                        Family Heirlooms</span>
                                     <i class="text-dark-purple feather icon-feather-minus"></i>
                                 </div>
                             </a>
                         </div>
                         <div id="collapseOne" class="panel-collapse collapse show" data-bs-parent="#accordion1">
-                            <div class="panel-body">Our artistic portraits and handcrafted keepsakes become cherished
-                                family heirlooms, preserving life’s special milestones.</div>
+                            <div class="panel-body">Our newborn photography and hand & feet castings in Narre Warren create cherished keepsakes that become treasured family heirlooms.</div>
                         </div>
                     </div>
                     <!-- end accordion item -->
@@ -328,15 +318,13 @@
                             <a class="accordion-toggle" data-bs-toggle="collapse" data-bs-parent="#accordion1"
                                 href="#collapseTwo">
                                 <div class="panel-title">
-                                    <span class="alt-font text-dark-purple d-inline-block font-weight-500">Newborn &
-                                        Maternity Specialists</span>
+                                    <span class="alt-font text-dark-purple d-inline-block font-weight-500">Maternity & Newborn Experts</span>
                                     <i class="indicator text-dark-purple feather icon-feather-plus"></i>
                                 </div>
                             </a>
                         </div>
                         <div id="collapseTwo" class="panel-collapse collapse" data-bs-parent="#accordion1">
-                            <div class="panel-body">We create a safe, welcoming space for expecting mothers, newborns,
-                                and families to feel comfortable and confident.</div>
+                            <div class="panel-body">Our Narre Warren studio offers a safe, baby-friendly environment, specializing in maternity photoshoots and newborn sessions.</div>
                         </div>
                     </div>
                     <!-- end accordion item -->
@@ -347,14 +335,13 @@
                                 href="#collapseThree">
                                 <div class="panel-title">
                                     <span class="alt-font text-dark-purple d-inline-block font-weight-500">Personalized
-                                        Experience</span>
+                                        Care</span>
                                     <i class="indicator text-dark-purple feather icon-feather-plus"></i>
                                 </div>
                             </a>
                         </div>
                         <div id="collapseThree" class="panel-collapse collapse" data-bs-parent="#accordion1">
-                            <div class="panel-body">We take time to understand your vision and craft every photoshoot
-                                around your unique story and style.</div>
+                            <div class="panel-body">We tailor every session to your family’s unique story, ensuring a heartfelt experience in our Melbourne studio.</div>
                         </div>
                     </div>
                     <!-- end accordion item -->
@@ -363,7 +350,7 @@
             <div class="col-lg-6 offset-lg-1 home-yoga-meditation wow animate__fadeIn" data-wow-delay="0.4s">
                 <div class="outside-box-right position-relative">
                     <img src="{{ why_choose_us_image }}"
-                        class="overflow-hidden border-radius-4px" alt="" />
+                        class="overflow-hidden border-radius-4px" alt="Family photography session in Narre Warren" />
                     <a href="https://www.youtube.com/watch?v=g0f_BRYJLJE"
                         class="popup-youtube absolute-middle-center video-icon-box video-icon-extra-large left-0px wow animate__fadeIn"
                         data-wow-delay="0.2s">
@@ -390,18 +377,17 @@
                     Popular Sessions</span>
                 <h5
                     class="alt-font font-weight-500 text-dark-purple line-height-46px m-lg-0 letter-spacing-minus-1px d-inline-block md-line-height-36px md-w-70 xs-w-100">
-                    Your family's story deserves to be captured with love and care</h5>
+                    Capture your family’s milestones with a maternity photoshoot in Victoria</h5>
             </div>
             <div class="col-xl-6 col-lg-4 text-center text-lg-end wow animate__fadeIn">
-                <a href="#services" class="btn btn-link thin btn-extra-large text-dark-purple font-weight-600">Explore
-                    Sessions</a>
+                <a href="#services" class="btn btn-link thin btn-extra-large text-dark-purple font-weight-600">Book Your Melbourne Session</a>
             </div>
         </div>
         <div
             class="row row-cols-1 row-cols-lg-3 row-cols-sm-2 justify-content-center margin-3-rem-bottom md-no-margin-bottom">
             <!-- start services item -->
             <div class="col md-margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn" data-wow-delay="0.2s">
-                <a href="#"><img src="{{ popular_sessions_maternity_shoot_session_photo }}" alt="" /></a>
+                <a href="#"><img src="{{ popular_sessions_maternity_shoot_session_photo }}" alt="Maternity photoshoot in Narre Warren studio" /></a>
                 <div class="position-relative bg-white padding-3-half-rem-all box-shadow-small">
                     <div
                         class="bg-dark-purple text-small alt-font text-white text-uppercase position-absolute font-weight-500 top-minus-15px right-0px padding-5px-tb padding-20px-lr">
@@ -409,8 +395,7 @@
                     <span
                         class="alt-font font-weight-500 text-extra-medium text-extra-dark-gray d-block margin-10px-bottom">Maternity
                         Portraits</span>
-                    <p>Capture the glow of motherhood with elegant, artistic maternity photography in our cozy studio.
-                    </p>
+                    <p>Embrace the beauty of motherhood with our elegant maternity photoshoots in Narre Warren, capturing your glow in a cozy, baby-friendly studio.</p>
                     <div class="w-100 h-1px bg-medium-light-gray margin-20px-bottom d-inline-block"></div>
                     <a class="alt-font font-weight-600 text-small text-dark-purple text-salmon-rose-hover text-uppercase d-flex align-items-center"
                         href="/photography-services/maternity-photography">Book Now<i class="feather icon-feather-arrow-right icon-extra-small ms-auto"></i></a>
@@ -420,7 +405,7 @@
 
             <!-- start services item -->
             <div class="col md-margin-30px-bottom xs-margin-15px-bottom wow animate__fadeIn" data-wow-delay="0.4s">
-                <a href="#"><img src="{{ popular_sessions_new_born_photo_session_photo }}" alt="" /></a>
+                <a href="#"><img src="{{ popular_sessions_new_born_photo_session_photo }}" alt="Newborn photography in Narre Warren studio" /></a>
                 <div class="position-relative bg-white padding-3-half-rem-all box-shadow-small">
                     <div
                         class="bg-dark-purple text-small alt-font text-white text-uppercase position-absolute font-weight-500 top-minus-15px right-0px padding-5px-tb padding-20px-lr">
@@ -428,8 +413,7 @@
                     <span
                         class="alt-font font-weight-500 text-extra-medium text-extra-dark-gray d-block margin-10px-bottom">Newborn
                         & Family</span>
-                    <p>Delicate newborn photography and heartfelt family portraits, preserving precious milestones
-                        forever.</p>
+                    <p>Our gentle newborn photography in Narre Warren preserves every tiny detail of your baby’s first days, alongside heartfelt family portraits.</p>
                     <div class="w-100 h-1px bg-medium-light-gray margin-20px-bottom d-inline-block"></div>
                     <a class="alt-font font-weight-600 text-small text-dark-purple text-salmon-rose-hover text-uppercase d-flex align-items-center"
                         href="/photography-services/newborn-photography">Book Now<i class="feather icon-feather-arrow-right icon-extra-small ms-auto"></i></a>
@@ -439,16 +423,15 @@
 
             <!-- start services item -->
             <div class="col wow animate__fadeIn" data-wow-delay="0.6s">
-                <a href="#"><img src="{{ popular_sessions_hands_and_feet_casting_session_photo }}" alt="" /></a>
+                <a href="#"><img src="{{ popular_sessions_hands_and_feet_casting_session_photo }}" alt="Baby hand and feet casting in Melbourne" /></a>
                 <div class="position-relative bg-white padding-3-half-rem-all box-shadow-small">
                     <div
                         class="bg-dark-purple text-small alt-font text-white text-uppercase position-absolute font-weight-500 top-minus-15px right-0px padding-5px-tb padding-20px-lr">
                         $249 per session</div>
                     <span
-                        class="alt-font font-weight-500 text-extra-medium text-extra-dark-gray d-block margin-10px-bottom">Hands
+                        class="alt-font font-weight-500 text-extra-medium text-extra-dark-gray d-block margin-10px-bottom">Hand
                         & Feet Castings</span>
-                    <p>Our beautiful life castings of tiny hands and feet create a lasting 3D memory of your little
-                        one’s early days.</p>
+                    <p>Create lasting memories with our baby casting in Melbourne, preserving your little one’s tiny hands and feet in stunning 3D framed keepsakes.</p>
                     <div class="w-100 h-1px bg-medium-light-gray margin-20px-bottom d-inline-block"></div>
                     <a class="alt-font font-weight-600 text-small text-dark-purple text-salmon-rose-hover text-uppercase d-flex align-items-center"
                         href="/photography-services/newborn-hand-foot-castings">Book Now<i class="feather icon-feather-arrow-right icon-extra-small ms-auto"></i></a>
@@ -468,7 +451,7 @@
                 <div class="overlap-section-inner">
                     <h3
                         class="alt-font text-salmon-rose title-extra-large letter-spacing-minus-3px font-weight-700 mb-0">
-                        Captured Moments</h3>
+                        Heartfelt Memories</h3>
                 </div>
             </div>
         </div>
@@ -487,15 +470,14 @@
                         <div class="swiper-slide">
                             <div class="d-flex flex-column">
                                 <div class="align-self-center text-center w-100">
-                                    <img alt="" src="images/home-yoga-meditation-icon-quote.jpg"
+                                    <img alt="Testimonial quote icon" src="images/home-yoga-meditation-icon-quote.jpg"
                                         class="w-70px margin-50px-bottom xs-w-50px xs-margin-25px-bottom">
                                     <p
                                         class="text-large line-height-36px margin-40px-bottom md-line-height-30px w-90 d-inline-block xs-margin-25px-bottom">
-                                        The team at Treasure4ever captured memories of our newborn so beautifully. Every
-                                        photo reflects the love and joy of those early days.</p>
+                                        Treasure4ever’s newborn photography in Narre Warren captured the magic of our baby’s first weeks. The photos are a treasure we’ll cherish forever.</p>
                                     <span class="alt-font font-weight-500 text-salmon-rose text-uppercase d-block">Priya
                                         Mehta</span>
-                                    <span class="alt-font text-small text-uppercase d-block">Newborn Session
+                                    <span class="alt-font text-small text-uppercase d-block">Newborn Photography
                                         Client</span>
                                 </div>
                             </div>
@@ -504,16 +486,15 @@
                         <div class="swiper-slide">
                             <div class="d-flex flex-column">
                                 <div class="align-self-center text-center w-100">
-                                    <img alt="" src="images/home-yoga-meditation-icon-quote.jpg"
+                                    <img alt="Testimonial quote icon" src="images/home-yoga-meditation-icon-quote.jpg"
                                         class="w-70px margin-50px-bottom xs-w-50px xs-margin-25px-bottom">
                                     <p
                                         class="text-large line-height-36px margin-40px-bottom md-line-height-30px w-90 d-inline-block xs-margin-25px-bottom">
-                                        I can’t thank Treasure4ever enough for the keepsake casting of my baby's tiny
-                                        hands and feet. It’s a memory we’ll treasure forever.</p>
+                                        The baby casting in Melbourne was a beautiful experience. Our framed hand and feet impressions are a perfect keepsake of our little one’s early days.</p>
                                     <span
                                         class="alt-font font-weight-500 text-salmon-rose text-uppercase d-block">Ananya
                                         Patel</span>
-                                    <span class="alt-font text-small text-uppercase d-block">Hands & Feet Casting
+                                    <span class="alt-font text-small text-uppercase d-block">Hand & Feet Casting
                                         Client</span>
                                 </div>
                             </div>
@@ -522,15 +503,14 @@
                         <div class="swiper-slide">
                             <div class="d-flex flex-column flex-sm-row">
                                 <div class="align-self-center text-center w-100">
-                                    <img alt="" src="images/home-yoga-meditation-icon-quote.jpg"
+                                    <img alt="Testimonial quote icon" src="images/home-yoga-meditation-icon-quote.jpg"
                                         class="w-70px margin-50px-bottom xs-w-50px xs-margin-25px-bottom">
                                     <p
                                         class="text-large line-height-36px margin-40px-bottom md-line-height-30px w-90 d-inline-block xs-margin-25px-bottom">
-                                        Our maternity photoshoot was an unforgettable experience. The studio made us
-                                        feel special, and the images are stunning!</p>
+                                        Our maternity photoshoot in Victoria was unforgettable. Treasure4ever made us feel so special, and the photos are absolutely stunning.</p>
                                     <span class="alt-font font-weight-500 text-salmon-rose text-uppercase d-block">Neha
                                         Sharma</span>
-                                    <span class="alt-font text-small text-uppercase d-block">Maternity Portrait
+                                    <span class="alt-font text-small text-uppercase d-block">Maternity Photoshoot
                                         Client</span>
                                 </div>
                             </div>
@@ -559,11 +539,10 @@
                     Promise</span>
                 <h5
                     class="alt-font font-weight-500 text-dark-purple line-height-46px letter-spacing-minus-1px m-lg-0 d-inline-block md-line-height-36px md-w-60 xs-w-100">
-                    Why choose Treasure4ever? We capture your precious moments with care and creativity</h5>
+                    Creating timeless keepsakes with baby casting in Melbourne</h5>
             </div>
             <div class="col text-center text-lg-end align-self-end wow animate__fadeIn">
-                <a href="#contact" class="btn btn-link thin btn-extra-large text-dark-purple font-weight-600">Get
-                    started now</a>
+                <a href="#contact" class="btn btn-link thin btn-extra-large text-dark-purple font-weight-600">Book Your Narre Warren Session</a>
             </div>
         </div>
         <div class="row row-cols-1 row-cols-lg-4 row-cols-sm-2 justify-content-center">
@@ -572,14 +551,13 @@
                 <div class="feature-box">
                     <div class="feature-box-icon margin-30px-bottom md-margin-30px-bottom">
                         <img class="rounded-circle w-200px h-200px border-all border-width-1px border-dashed border-color-medium-gray padding-10px-all"
-                            src="images/home-yoga-meditation-facility-img01.jpg" alt="">
+                            src="images/home-yoga-meditation-facility-img01.jpg" alt="Creative photography guidance in Narre Warren">
                     </div>
                     <div class="feature-box-content last-paragraph-no-margin">
                         <span
                             class="text-dark-purple d-inline-block font-weight-500 alt-font margin-5px-bottom">Creative
                             Guidance</span>
-                        <p class="mx-auto xs-w-75">Our experienced photographers help you feel confident, natural, and
-                            picture-perfect.</p>
+                        <p class="mx-auto xs-w-75">Our expert photographers in Narre Warren guide you to feel confident and natural, ensuring stunning, heartfelt portraits.</p>
                     </div>
                 </div>
             </div>
@@ -588,14 +566,13 @@
                 <div class="feature-box">
                     <div class="feature-box-icon margin-30px-bottom md-margin-30px-bottom">
                         <img class="rounded-circle w-200px h-200px border-all border-width-1px border-dashed border-color-medium-gray padding-10px-all"
-                            src="images/home-yoga-meditation-facility-img02.jpg" alt="">
+                            src="images/home-yoga-meditation-facility-img02.jpg" alt="Professional photography studio in Narre Warren">
                     </div>
                     <div class="feature-box-content last-paragraph-no-margin">
                         <span
                             class="text-dark-purple d-inline-block font-weight-500 alt-font margin-5px-bottom">Professional
                             Studio</span>
-                        <p class="mx-auto xs-w-75">A fully equipped, welcoming space designed for families, newborns,
-                            and maternity shoots.</p>
+                        <p class="mx-auto xs-w-75">Our Narre Warren studio is fully equipped and baby-friendly, perfect for maternity, newborn, and family photoshoots.</p>
                     </div>
                 </div>
             </div>
@@ -604,13 +581,13 @@
                 <div class="feature-box">
                     <div class="feature-box-icon margin-30px-bottom md-margin-30px-bottom">
                         <img class="rounded-circle w-200px h-200px border-all border-width-1px border-dashed border-color-medium-gray padding-10px-all"
-                            src="images/home-yoga-meditation-facility-img03.jpg" alt="">
+                            src="images/home-yoga-meditation-facility-img03.jpg" alt="Relaxed atmosphere for family photography in Melbourne">
                     </div>
                     <div class="feature-box-content last-paragraph-no-margin">
-                        <span class="text-dark-purple d-inline-block font-weight-500 alt-font margin-5px-bottom">Relaxed
+                        <span
+                            class="text-dark-purple d-inline-block font-weight-500 alt-font margin-5px-bottom">Relaxed
                             Atmosphere</span>
-                        <p class="mx-auto xs-w-75">We create a calm, inviting environment so your true emotions shine
-                            through every photo.</p>
+                        <p class="mx-auto xs-w-75">Our warm, inviting Melbourne studio creates a calm environment, letting your family’s love shine in every photo.</p>
                     </div>
                 </div>
             </div>
@@ -619,14 +596,13 @@
                 <div class="feature-box">
                     <div class="feature-box-icon margin-30px-bottom md-margin-30px-bottom">
                         <img class="rounded-circle w-200px h-200px border-all border-width-1px border-dashed border-color-medium-gray padding-10px-all"
-                            src="images/home-yoga-meditation-facility-img04.jpg" alt="">
+                            src="images/home-yoga-meditation-facility-img04.jpg" alt="Framed baby keepsake gifts in Australia">
                     </div>
                     <div class="feature-box-content last-paragraph-no-margin">
                         <span
-                            class="text-dark-purple d-inline-block font-weight-500 alt-font margin-5px-bottom">Cherished
+                            class="text-dark-purple d-inline-block font-weight-500 alt-font margin-5px-bottom">Timeless
                             Keepsakes</span>
-                        <p class="mx-auto xs-w-75">From hands & feet castings to framed portraits, we offer heirlooms
-                            that last a lifetime.</p>
+                        <p class="mx-auto xs-w-75">From 3D hand and feet castings to framed portraits, our Melbourne studio crafts heirlooms to treasure forever.</p>
                     </div>
                 </div>
             </div>

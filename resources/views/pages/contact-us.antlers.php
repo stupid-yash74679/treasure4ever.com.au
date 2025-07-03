@@ -9,8 +9,7 @@
                 </h1>
             </div>
             <div class="w-100 w-md-50">
-                <h4 class="alt-font font-weight-500 text-extra-dark-gray mb-0">We create brand new corporate identities
-                </h4>
+                <h4 class="alt-font font-weight-500 text-extra-dark-gray mb-0">Book your newborn photography or maternity session in Narre Warren</h4>
             </div>
         </div>
     </div>
@@ -22,7 +21,8 @@
     <div class="container">
         <div class="row align-items-end justify-content-center">
             <div class="col-lg-12 col-md-12">
-                <h4 class="alt-font text-black font-weight-600">Let's get in touch with us</h4>
+                <h4 class="alt-font text-black font-weight-600">Let’s capture your family’s precious moments</h4>
+                <p class="line-height-32px w-95 mb-4">Contact Treasure4ever Studio in Narre Warren to schedule your maternity photoshoot, newborn photography, or baby hand and feet casting session. We’re here to create timeless keepsakes for Melbourne families.</p>
                 <form action="email-templates/contact-form.php" method="post" class="alt-font text-extra-dark-gray">
                     <input
                         class="input-border-bottom border-color-extra-dark-gray bg-transparent placeholder-dark large-input px-0 margin-25px-bottom border-radius-0px required"
@@ -32,14 +32,14 @@
                         type="email" name="email" placeholder="Your email address" />
                     <input
                         class="input-border-bottom border-color-extra-dark-gray bg-transparent placeholder-dark large-input px-0 margin-25px-bottom border-radius-0px"
-                        type="tel" name="phone" placeholder="Mobile no" />
+                        type="tel" name="phone" placeholder="Your mobile number" />
                     <textarea
                         class="input-border-bottom border-color-extra-dark-gray bg-transparent placeholder-dark large-input px-0 margin-35px-bottom border-radius-0px"
-                        name="comment" rows="5" placeholder="How can we help you?"></textarea>
+                        name="comment" rows="5" placeholder="Tell us about your Narre Warren session (e.g., newborn photography, maternity, or casting)"></textarea>
                     <div class="g-recaptcha margin-35px-bottom" data-sitekey="6LfJf98bAAAAAGC26hfKyd2Ptddbs9xYm4mCNeLx">
                     </div>
                     <input type="hidden" name="redirect" value="">
-                    <button class="btn btn-medium btn-dark-gray mb-0 submit" type="submit">send message</button>
+                    <button class="btn btn-medium btn-dark-gray mb-0 submit" type="submit">Book Your Session in Narre Warren</button>
                     <div class="form-results d-none"></div>
                 </form>
             </div>
@@ -56,7 +56,7 @@
                 <div class="map-style-3 h-500px xs-h-300px">
                     <iframe class="w-100 h-100 filter-grayscale-100"
                         src="{{ brand:gmap_url }}"
-                        allowfullscreen></iframe>
+                        alt="Treasure4ever Studio location in Narre Warren" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
