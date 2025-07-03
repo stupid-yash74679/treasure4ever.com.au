@@ -24469,3 +24469,106 @@ only screen and (min-resolution: 1.5dppx) {
 .gdpr-container .btn {
     display: inline-block;
 }
+
+
+
+
+
+
+
+
+
+.blog-article {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 3rem 2rem;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  line-height: 1.8;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.blog-article:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.1);
+}
+
+.blog-title {
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  color: #1a202c;
+  font-weight: 800;
+  letter-spacing: -0.025em;
+  background: linear-gradient(90deg, #1a202c, #2d3748);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transition: opacity 0.3s ease;
+}
+
+.blog-title:hover {
+  opacity: 0.9;
+}
+
+.blog-section {
+  margin-top: 3rem;
+  padding: 1.5rem;
+  background-color: #f8fafc;
+  border-radius: 8px;
+}
+
+.blog-subheading {
+  font-size: 1.6rem;
+  color: #e53e3e;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  position: relative;
+  padding-bottom: 0.5rem;
+}
+
+.blog-subheading::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 60px;
+  height: 3px;
+  background-color: #e53e3e;
+  border-radius: 2px;
+}
+
+.blog-paragraph {
+  margin-bottom: 1.2rem;
+  color: #4a5568;
+  font-size: 1.1rem;
+  letter-spacing: 0.01em;
+  transition: color 0.3s ease;
+}
+
+.blog-paragraph:hover {
+  color: #2d3748;
+}
+
+.blog-list {
+  margin: 1.5rem 0;
+  padding-left: 1.8rem;
+  list-style: none;
+}
+
+.blog-list li {
+  position: relative;
+  margin-bottom: 0.75rem;
+  font-size: 1.1rem;
+  color: #4a5568;
+  padding-left: 1.5rem;
+}
+
+.blog-list li::before {
+  content: '•';
+  position: absolute;
+  left: 0;
+  color: #e53e3e;
+  font-size: 1.4rem;
+  line-height: 1.8;
+}
