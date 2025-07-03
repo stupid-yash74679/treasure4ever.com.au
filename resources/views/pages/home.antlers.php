@@ -161,7 +161,7 @@
             <div class="col-lg-5 col-md-6 offset-lg-1 wow animate__fadeIn" data-wow-delay="0.3s">
                 <p class="line-height-32px w-95">From maternity glow to newborn smiles, Treasure4ever Studio crafts
                     heartfelt memories that last a lifetime.</p>
-                <a href="#about" class="btn btn-link thin btn-extra-large text-dark-purple font-weight-600">Discover
+                <a href="/about-us" class="btn btn-link thin btn-extra-large text-dark-purple font-weight-600">Discover
                     About Us</a>
             </div>
         </div>
@@ -201,7 +201,7 @@
                                         Glow</span>
                                     <p class="text-white opacity-7">Celebrate this special chapter with timeless
                                         maternity portraits designed to capture your radiance.</p>
-                                    <a href="#services"
+                                    <a href="/photography-services/maternity-photography"
                                         class="btn btn-link thin btn-extra-large text-extra-dark-gray">Discover More</a>
                                 </div>
                             </div>
@@ -240,7 +240,7 @@
                                         Smiles</span>
                                     <p class="text-white opacity-7">Capture every tiny detail of your newborn with our
                                         heartfelt photography sessions.</p>
-                                    <a href="#services"
+                                    <a href="/photography-services/newborn-photography"
                                         class="btn btn-link thin btn-extra-large text-extra-dark-gray">Discover More</a>
                                 </div>
                             </div>
@@ -278,7 +278,7 @@
                                         Keepsakes</span>
                                     <p class="text-white opacity-7">Create lasting keepsakes with artistic family
                                         portraits, wall art, and beautiful prints.</p>
-                                    <a href="#services"
+                                    <a href="/photography-services/portrait-sessions"
                                         class="btn btn-link thin btn-extra-large text-extra-dark-gray">Discover More</a>
                                 </div>
                             </div>
@@ -405,7 +405,7 @@
                 <div class="position-relative bg-white padding-3-half-rem-all box-shadow-small">
                     <div
                         class="bg-dark-purple text-small alt-font text-white text-uppercase position-absolute font-weight-500 top-minus-15px right-0px padding-5px-tb padding-20px-lr">
-                        $299 per session</div>
+                        $399 per session</div>
                     <span
                         class="alt-font font-weight-500 text-extra-medium text-extra-dark-gray d-block margin-10px-bottom">Maternity
                         Portraits</span>
@@ -413,7 +413,7 @@
                     </p>
                     <div class="w-100 h-1px bg-medium-light-gray margin-20px-bottom d-inline-block"></div>
                     <a class="alt-font font-weight-600 text-small text-dark-purple text-salmon-rose-hover text-uppercase d-flex align-items-center"
-                        href="#">Book Now<i class="feather icon-feather-arrow-right icon-extra-small ms-auto"></i></a>
+                        href="/photography-services/maternity-photography">Book Now<i class="feather icon-feather-arrow-right icon-extra-small ms-auto"></i></a>
                 </div>
             </div>
             <!-- end services item -->
@@ -424,7 +424,7 @@
                 <div class="position-relative bg-white padding-3-half-rem-all box-shadow-small">
                     <div
                         class="bg-dark-purple text-small alt-font text-white text-uppercase position-absolute font-weight-500 top-minus-15px right-0px padding-5px-tb padding-20px-lr">
-                        $399 per session</div>
+                        $499 per session</div>
                     <span
                         class="alt-font font-weight-500 text-extra-medium text-extra-dark-gray d-block margin-10px-bottom">Newborn
                         & Family</span>
@@ -432,7 +432,7 @@
                         forever.</p>
                     <div class="w-100 h-1px bg-medium-light-gray margin-20px-bottom d-inline-block"></div>
                     <a class="alt-font font-weight-600 text-small text-dark-purple text-salmon-rose-hover text-uppercase d-flex align-items-center"
-                        href="#">Book Now<i class="feather icon-feather-arrow-right icon-extra-small ms-auto"></i></a>
+                        href="/photography-services/newborn-photography">Book Now<i class="feather icon-feather-arrow-right icon-extra-small ms-auto"></i></a>
                 </div>
             </div>
             <!-- end services item -->
@@ -443,7 +443,7 @@
                 <div class="position-relative bg-white padding-3-half-rem-all box-shadow-small">
                     <div
                         class="bg-dark-purple text-small alt-font text-white text-uppercase position-absolute font-weight-500 top-minus-15px right-0px padding-5px-tb padding-20px-lr">
-                        $199 per session</div>
+                        $249 per session</div>
                     <span
                         class="alt-font font-weight-500 text-extra-medium text-extra-dark-gray d-block margin-10px-bottom">Hands
                         & Feet Castings</span>
@@ -451,7 +451,7 @@
                         one’s early days.</p>
                     <div class="w-100 h-1px bg-medium-light-gray margin-20px-bottom d-inline-block"></div>
                     <a class="alt-font font-weight-600 text-small text-dark-purple text-salmon-rose-hover text-uppercase d-flex align-items-center"
-                        href="#">Book Now<i class="feather icon-feather-arrow-right icon-extra-small ms-auto"></i></a>
+                        href="/photography-services/newborn-hand-foot-castings">Book Now<i class="feather icon-feather-arrow-right icon-extra-small ms-auto"></i></a>
                 </div>
             </div>
             <!-- end services item -->
