@@ -633,3 +633,4 @@
         </div>
     </div>
 </section>
+{{ partial src="_parts/blogs"}}
