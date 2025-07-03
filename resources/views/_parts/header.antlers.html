@@ -9,11 +9,13 @@
                 <div class="col-auto d-none d-sm-block text-end px-lg-0 font-size-0">
                     <div class="top-bar-contact">
                         <span class="top-bar-contact-list border-none md-no-padding-right">
-                            <i class="feather icon-feather-phone-call icon-extra-small text-extra-dark-gray"></i> 0425 555 002
+                            <a href="tel:{{ brand:phone_number }}">
+                            <i class="feather icon-feather-phone-call icon-extra-small text-extra-dark-gray"></i>{{ brand:phone_number }}
+                            </a>
                         </span>
                         <span class="top-bar-contact-list d-none d-lg-inline-block border-none pe-0">
                             <i class="feather icon-feather-map-pin icon-extra-small text-extra-dark-gray"></i>
-                            Melbourne, Australia
+                            {{ brand:address }}
                         </span>
                     </div>
                 </div>

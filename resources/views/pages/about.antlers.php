@@ -29,7 +29,7 @@
             </div>
             <div class="col-lg-4 col-md-6 ps-lg-0 d-flex sm-margin-30px-bottom">
                 <div
-                    class="justify-content-center w-100 d-flex flex-column bg-fast-blue padding-5-half-rem-lr lg-padding-3-rem-lr md-padding-4-rem-all">
+                    class="justify-content-center w-100 d-flex flex-column bg-black padding-5-half-rem-lr lg-padding-3-rem-lr md-padding-4-rem-all">
                     <span class="text-extra-large alt-font font-weight-500 text-white margin-20px-bottom d-block">We
                         began Treasure4ever to help families preserve their most cherished memories.</span>
                     <p class="text-white opacity-7">With a deep passion for storytelling, we specialise in maternity,
